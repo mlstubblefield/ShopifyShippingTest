@@ -1,7 +1,7 @@
 {
    "rates": [
        {
-           "service_name": "canadapost-overnight",
+           "service_name": "Yolo",
            "service_code": "ON",
            "total_price": "1295",
            "description": "This is the fastest option by far",
@@ -10,7 +10,7 @@
            "max_delivery_date": "2013-04-12 14:48:45 -0400"
        },
        {
-           "service_name": "fedex-2dayground",
+           "service_name": "Yolo Overnight",
            "service_code": "2D",
            "total_price": "2934",
            "currency": "USD",
@@ -18,7 +18,7 @@
            "max_delivery_date": "2013-04-12 14:48:45 -0400"
        },
        {
-           "service_name": "fedex-priorityovernight",
+           "service_name": "Yololololo",
            "service_code": "1D",
            "total_price": "3587",
            "currency": "USD",
