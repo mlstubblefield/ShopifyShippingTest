@@ -31,3 +31,8 @@ To enable multiple shipping locations first go here
 https://help.shopify.com/en/manual/locations/setting-up-your-locations
 then follow these instructions
 https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/convert-to-shipping-profile
+
+Unknowns
+- What if each warehouse returns different rates? Maybe I should make a fake vercel app to derisk this so I can put in some basic logic
+- How do I show TNT expectations
+- How can we do free shipping if I don't have the merch total for the entire order?
