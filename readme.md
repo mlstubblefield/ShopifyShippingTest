@@ -25,3 +25,4 @@ When you create the app, it'll give you this URL with basic auth
 https://XXXXX:XXXX@XXXX.myshopify.com/admin/api/2021-07/carrier_services.json
 
 Once that's set up at some point you'll want to go in and delete the other/old rates (once it's deemed safe) (may want a back up plan) (probably use the api to do this?)
+There's an option on the shipping dashboard to enable backup rates. Maybe that'd be good enough to add safety as we roll out.
