@@ -26,3 +26,8 @@ https://XXXXX:XXXX@XXXX.myshopify.com/admin/api/2021-07/carrier_services.json
 
 Once that's set up at some point you'll want to go in and delete the other/old rates (once it's deemed safe) (may want a back up plan) (probably use the api to do this?)
 There's an option on the shipping dashboard to enable backup rates. Maybe that'd be good enough to add safety as we roll out.
+
+To enable multiple shipping locations first go here
+https://help.shopify.com/en/manual/locations/setting-up-your-locations
+then follow these instructions
+https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/convert-to-shipping-profile
