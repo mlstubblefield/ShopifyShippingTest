@@ -16,10 +16,12 @@ DO NOT FORGET CONTENT TYPE application/json
 {
   "carrier_service": {
     "name": "Speedway-Testo",
-    "callback_url": "https://app.fakejson.com/q/98r5DtjP?token=zGcQ7HslrJzS1Rj6I_bZ0Q",
+    "callback_url": "https://mlstest.vercel.app/api/shopify-shipping",
     "service_discovery": true
   }
 }
+you're probably going to update the provider eventually as well... when you need to do that, hit the PUT verison of the API with the same style of request body
+https://speedway-testo.myshopify.com/admin/api/2021-07/carrier_services/58760659110.json
 
 When you create the app, it'll give you this URL with basic auth
 you can retrieve the URL by visiting the link to the private app and scrolling down...
