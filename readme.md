@@ -4,7 +4,7 @@ I used
 
 Here's a rough sketch on how to do it...
 - Go to apps
-- Create private app
+- Create private app https://speedway-testo.myshopify.com/admin/apps/private
 - Accept stuff/name it
 - Add permissions "Shipping - Read and Write"
 - Crete App
